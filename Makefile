@@ -10,7 +10,7 @@ run_api:
 
 # 🚨 set your correct project id in GCP_PROJECT_ID
 
-export GCP_PROJECT_ID="le-wagon-data"
+export GCP_PROJECT_ID="le-wagon-bootcamp-311214"
 export DOCKER_IMAGE_NAME="data-certification"
 export GCR_MULTI_REGION="eu.gcr.io"
 export GCR_REGION="europe-west1"
